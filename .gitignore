@@ -1,4 +1,5 @@
 .env
 myenv/
-db.sqlite3
-__pycache__/
+mywebapp/db.sqlite3
+mywebapp/myapp/__pycache__/
+mywebapp/mywebapp/__pycache__/
